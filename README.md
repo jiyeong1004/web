@@ -1,7 +1,7 @@
 # web1
 
-#### [생활코딩 강좌](https://opentutorials.org/course/3084) 영상 시청 후 실습
-#### [생활코딩 강좌_YouTube](https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)
+### [생활코딩 강좌](https://opentutorials.org/course/3084) 영상 시청 후 실습
+### [생활코딩 강좌_YouTube](https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)
 
 ##### 1. 프로젝트의 동기
 
