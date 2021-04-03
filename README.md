@@ -1,6 +1,7 @@
 # web1
 
-#### [생활코딩 강좌](https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb) 영상 시청 후 실습
+#### [생활코딩 강좌](https://opentutorials.org/course/3084) 영상 시청 후 실습
+#### [생활코딩 강좌_YouTube](https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)
 
 1. 프로젝트의 동기
 
@@ -31,6 +32,8 @@
 14. 웹사이트 완성
 
 15. 원시웹
+
+[Mesopotamia of Web(Web의 메소포타미아)](http://info.cern.ch/)
 
 16. 인터넷을 여는 열쇠 : 서버와 클라이언트
 
